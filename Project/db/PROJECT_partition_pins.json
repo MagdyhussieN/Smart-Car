@@ -1,0 +1,85 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "warning_message",
+					"strict" : false
+				},
+				{
+					"name" : "Motor",
+					"strict" : false
+				},
+				{
+					"name" : "ledA[3]",
+					"strict" : false
+				},
+				{
+					"name" : "ledL[6]",
+					"strict" : false
+				},
+				{
+					"name" : "ledL[2]",
+					"strict" : false
+				},
+				{
+					"name" : "ledL[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ledL[0]",
+					"strict" : false
+				},
+				{
+					"name" : "ledE[2]",
+					"strict" : false
+				},
+				{
+					"name" : "ledE[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ledR[5]",
+					"strict" : false
+				},
+				{
+					"name" : "ledR[3]",
+					"strict" : false
+				},
+				{
+					"name" : "ledR[2]",
+					"strict" : false
+				},
+				{
+					"name" : "ledR[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ledR[0]",
+					"strict" : false
+				},
+				{
+					"name" : "ledT[2]",
+					"strict" : false
+				},
+				{
+					"name" : "ledT[1]",
+					"strict" : false
+				},
+				{
+					"name" : "ledT[0]",
+					"strict" : false
+				},
+				{
+					"name" : "lane_sensor",
+					"strict" : false
+				},
+				{
+					"name" : "obstacle_sensor",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
